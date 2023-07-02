@@ -16,3 +16,11 @@ Este é o primeiro curso da especialização, mas há outros quatro cursos a seg
 ## Demonstrating the merkelsim currency exchange simulation
 
 Nesta aula, o professor demonstra a plataforma de negociação que será desenvolvida ao longo de cinco unidades de aprendizado no curso. Ele explica conceitos básicos de negociação, como livro de ordens, pares de negociação, ofertas de compra e venda, carteira e mecanismo de correspondência. O vídeo também mostra como executar o programa e apresenta o código-fonte que será desenvolvido ao longo do curso. O objetivo é que, ao concluir os cinco cursos, os alunos entendam completamente como a plataforma de negociação funciona. Para aprofundar o assunto, sugere-se a leitura de literatura sobre negociação e programação em C++.
+
+## Is C++ a low-level language?
+
+Neste vídeo, o professor introduz a ideia de linguagens de alto e baixo nível, explicando que o C++ é uma linguagem de baixo nível. Ele explica que a diferença entre as duas está no nível de abstração do hardware subjacente. Linguagens de alto nível não se preocupam com os detalhes do funcionamento do hardware, enquanto linguagens de baixo nível têm acesso direto ao hardware. O professor menciona que o C++ é útil para sistemas críticos e em tempo real, pois permite um maior controle sobre o hardware. Ele pede aos alunos que discutam no fórum quais linguagens são de alto ou baixo nível. O vídeo resume o conceito de linguagens de alto e baixo nível e apresenta exemplos dessas linguagens.
+
+## Writing our first program
+
+Neste vídeo, aprendermos como escrever o primeiro programa em C++ e o professor explica o processo de compilação e linkagem para criar um código executável. Ele utiliza o editor Visual Studio Code e mostra como utilizar a biblioteca padrão do C++ para imprimir mensagens no console. O professor também explica as etapas de compilação, que envolvem a geração de código assembly e código objeto, e a etapa de linkagem, que conecta o código objeto a bibliotecas externas. O vídeo fornece uma visão geral do processo de compilação e linkagem em C++.
