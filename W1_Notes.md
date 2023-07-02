@@ -24,3 +24,7 @@ Neste vídeo, o professor introduz a ideia de linguagens de alto e baixo nível,
 ## Writing our first program
 
 Neste vídeo, aprendermos como escrever o primeiro programa em C++ e o professor explica o processo de compilação e linkagem para criar um código executável. Ele utiliza o editor Visual Studio Code e mostra como utilizar a biblioteca padrão do C++ para imprimir mensagens no console. O professor também explica as etapas de compilação, que envolvem a geração de código assembly e código objeto, e a etapa de linkagem, que conecta o código objeto a bibliotecas externas. O vídeo fornece uma visão geral do processo de compilação e linkagem em C++.
+
+## ow to compile a program in web-based Visual Studio Code
+
+Neste vídeo, o professor mostra como escrever e compilar um programa usando o ambiente de desenvolvimento integrado (IDE) baseado em navegador disponível na plataforma Coursera. Ele explica como abrir o Visual Studio Code, criar um novo arquivo, escrever um programa simples em C++, salvar os arquivos e fazer o download deles para backup. O instrutor também demonstra como compilar e executar o programa usando o terminal. O vídeo fornece uma introdução básica ao ambiente de codificação baseado em navegador e suas funcionalidades.
