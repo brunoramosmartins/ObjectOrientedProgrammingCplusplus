@@ -32,3 +32,11 @@ Neste vídeo, o professor mostra como escrever e compilar um programa usando o a
 ## Print a list of options (menu)
 
 Neste vídeo, é hora de começar a construir nosso sistema de simulação de troca de moeda. Vamos aprender como as trocas de moeda funcionam construindo uma nós mesmos. A primeira etapa é decidir quais são as opções que o usuário pode fazer. O sistema será baseado em console, com entrada e saída de texto. Vamos imprimir um menu que dará ao usuário uma lista de opções do que ele deseja fazer. As principais tópicos abordados são: funcionamento de trocas de moeda, ofertas e lances, carteiras e resolução de negociações.
+
+## Receiving user input with the extraction operator
+
+Nesta aula, aprendemos a fazer o menu funcionar através da entrada opcional do usuário e decidir o que fazer com base nisso. Utilizamos o operador de extração para ler os dados da entrada padrão (cin) e armazená-los em uma variável. Verificamos se o usuário digitou algo e exibimos a opção escolhida. Também exploramos como o sistema de leitura da biblioteca padrão trata diferentes tipos de entrada, como números inteiros, números de ponto flutuante e palavras. Concluímos que a entrada do usuário é robusta e, no próximo vídeo, aprenderemos a lidar com essa entrada e realizar diferentes ações com base no que foi digitado.
+
+## If statements: conditionally printing responses to the user
+
+Nesta aula, o professor continua trabalhando no menu e adiciona lógica para imprimir uma resposta diferente dependendo da opção escolhida pelo usuário. Ele utiliza declarações condicionais "if" para verificar a entrada do usuário e imprimir mensagens de erro ou informações relevantes. Em seguida, ele envolve todo o código em um loop "while" infinito para permitir interações contínuas com o sistema. O autor sugere adicionar uma opção de saída no menu para encerrar o loop. 
