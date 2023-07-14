@@ -39,4 +39,12 @@ Nesta aula, aprendemos a fazer o menu funcionar através da entrada opcional do 
 
 ## If statements: conditionally printing responses to the user
 
-Nesta aula, o professor continua trabalhando no menu e adiciona lógica para imprimir uma resposta diferente dependendo da opção escolhida pelo usuário. Ele utiliza declarações condicionais "if" para verificar a entrada do usuário e imprimir mensagens de erro ou informações relevantes. Em seguida, ele envolve todo o código em um loop "while" infinito para permitir interações contínuas com o sistema. O autor sugere adicionar uma opção de saída no menu para encerrar o loop. 
+Nesta aula, o professor continua trabalhando no menu e adiciona lógica para imprimir uma resposta diferente dependendo da opção escolhida pelo usuário. Ele utiliza declarações condicionais "if" para verificar a entrada do usuário e imprimir mensagens de erro ou informações relevantes. Em seguida, ele envolve todo o código em um loop "while" infinito para permitir interações contínuas com o sistema. O autor sugere adicionar uma opção de saída no menu para encerrar o loop.
+
+## Let's experiment with std::cout and std::cin
+
+Nesta aula, o professor fala sobre o uso do standard Cin e standard Cout em programas em C++. Ele menciona a dificuldade de obter entrada e saída em máquinas antigas, como a máquina de diferenças de Babbage. O professor explica que o std é um namespace que contém componentes prontos para uso, como funções e classes, da biblioteca padrão do C++. Ele mostra como incluir a biblioteca iostream para acessar o standard Cout, que é usado para imprimir mensagens na saída do console. Ele também menciona o standard Cin, que é usado para ler dados de entrada. O professor destaca a importância de tratar diferentes tipos de entrada de forma adequada. No geral, o vídeo fornece uma introdução ao uso do standard Cin e standard Cout em programas em C++.
+
+## Write menu functions
+
+Nesta aula, o professor explica como criar funções para cada opção de um menu. Ele mostra como organizar o código em funções separadas para facilitar a implementação de funcionalidades específicas. O professor demonstra como criar as funções e chama-las no código principal. Ele enfatiza a importância da separação de responsabilidades e menciona que as funções podem ser modificadas posteriormente.
